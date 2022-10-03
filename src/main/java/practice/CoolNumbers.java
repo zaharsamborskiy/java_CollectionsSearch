@@ -1,7 +1,4 @@
 package practice;
-
-import org.checkerframework.checker.units.qual.A;
-
 import java.util.*;
 
 public class CoolNumbers {
